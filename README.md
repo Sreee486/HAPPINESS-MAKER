@@ -1,59 +1,58 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [HAPPINESS MAKER] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## 
+### Team Name: [Techno TLS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Truefaith P J] - [CUCEK,Kuttanad]
+- Member 2: [sreelakshmi P V] - [CUCEK,Kuttanad]
+- Member 3: [Liya Theresa P D] - [CUCEK,Kuttanad]
 
 ### Project Description
-[2-3 lines about what your project does]
-
+The Happiness Maker is fun,simple project that generates a random compliment every time a user interacts with it.
+Key features-
+1.Compliment database:A collection of predefined compliments stored in an array or database
+2.Random selection:Each time the user refreshs the page a random compliment is selected and displayed
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[A scenario where people around the world have started to feel increasingly unappericiated,overlooked and uninpired this led to wide spread decline in motivation,productivity and happiness people are missing out on small but important affirmation that make them feel value and motivated  ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[The Happiness Maker website emerges as the perfect solution during the above mentioned scenario. By simply refreshing the page any one can recevie a personalised compliment,sparking a bit of joy and motivation wherever they are. the websites easy accessiblity means people can incopprate it into their daily routine, providing a quik boost of encouragement before waiting,during study breaks or at any time they need it. ]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-[HTML,CSS,JAVASCRIPT]
 
 ### Implementation
-For Software:
+For Software:Frontend:HTML,CSS,and Javascript for a web-based version.
+randomizationlogic:A function to pick a random compliment from the list each time the generator is used.
+hardcord jason data
 # Installation
-[commands]
+[step 1-clone the repostory
+step 2-open the compli.html file]
 
 # Run
-[commands]
+[refresh]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot (2)](https://github.com/user-attachments/assets/f013faf9-1a84-4ca6-991a-f21079239412)
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![![Screenshot (3)](https://github.com/user-attachments/assets/9d9a84f4-a72e-4f02-8e8e-8af507a9fbf5)
+](refreshed random compliment)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (4)](https://github.com/user-attachments/assets/a3583dec-c959-4a29-8def-fe6e3314abb4)
+(refreshed random compliment)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -68,28 +67,32 @@ For Hardware:
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
+# Build Photo
+![WhatsApp Image 2024-11-02 at 7 00 31 PM](https://github.com/user-attachments/assets/dd7885c9-edef-400a-b6dc-5a656d8c1688)
+]
 *List out all components shown*
 
-![Build](Add photos of build process here)
+![![WhatsApp Image 2024-11-02 at 7 03 20 PM](https://github.com/user-attachments/assets/c1b219f0-2ce8-4be7-851b-98381612e692)
+](Add!photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![![Screenshot (4)](https://github.com/user-attachments/assets/8f9b18a7-dec8-4711-b32c-351f76fb3d58)
+]
+whenever we refresh the page a new random compliment will appear.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+["C:\Users\lenovo\Videos\Screen Recordings\Screen Recording 2024-11-02 195323.mp4"]
+name of the project is "happiness maker".a lighthearted and uplifting tool designed to brighten anyone's day with just a single click!
+when we run the code it goes to a page where we get a new random compliment whenever we refreshes the page .
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Truefaith P J]: [Idea provider]
+- [ Liya Teresa P D]: [code creator]
+- [Sreelakshmi P V]: [desinging]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
