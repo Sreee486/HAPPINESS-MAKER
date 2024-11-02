@@ -9,7 +9,7 @@
 
 ### Team Members
 - Team Lead: [Truefaith P J] - [CUCEK,Kuttanad]
-- Member 2: [sreelakshmi P V] - [CUCEK,Kuttanad]
+- Member 2: [Sreelakshmi P V] - [CUCEK,Kuttanad]
 - Member 3: [Liya Theresa P D] - [CUCEK,Kuttanad]
 
 ### Project Description
@@ -37,44 +37,23 @@ hardcord jason data
 step 2-open the compli.html file]
 
 # Run
-[refresh]
-
-### Project Documentation
-For Software:
+refresh
 
 # Screenshots (Add at least 3)
 ![Screenshot (2)](https://github.com/user-attachments/assets/f013faf9-1a84-4ca6-991a-f21079239412)
 
-*Add caption explaining what this shows*
-
 ![![Screenshot (3)](https://github.com/user-attachments/assets/9d9a84f4-a72e-4f02-8e8e-8af507a9fbf5)
 ](refreshed random compliment)
-*Add caption explaining what this shows*
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/a3583dec-c959-4a29-8def-fe6e3314abb4)
 (refreshed random compliment)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
 # Build Photo
 ![WhatsApp Image 2024-11-02 at 7 00 31 PM](https://github.com/user-attachments/assets/dd7885c9-edef-400a-b6dc-5a656d8c1688)
 ]
-*List out all components shown*
 
 ![![WhatsApp Image 2024-11-02 at 7 03 20 PM](https://github.com/user-attachments/assets/c1b219f0-2ce8-4be7-851b-98381612e692)
-](Add!photos of build process here)
-*Explain the build steps*
+]
 
 ![![Screenshot (4)](https://github.com/user-attachments/assets/8f9b18a7-dec8-4711-b32c-351f76fb3d58)
 ]
@@ -92,7 +71,7 @@ when we run the code it goes to a page where we get a new random compliment when
 ## Team Contributions
 - [Truefaith P J]: [Idea provider]
 - [ Liya Teresa P D]: [code creator]
-- [Sreelakshmi P V]: [desinging]
+- [Sreelakshmi P V] : [Designing]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
